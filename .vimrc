@@ -23,8 +23,8 @@ inoremap kj <Esc>
 nnoremap / /\v
 nnoremap cn :cnext<cr>
 nnoremap cp :cprevious<cr>
-nnoremap <leader>ev :vsplit .vimrc<cr>
-nnoremap <leader>sv :source .vimrc<cr>
+nnoremap <leader>ev :vsplit ~/.vimrc<cr>
+nnoremap <leader>sv :source ~/.vimrc<cr>
 " }}}
 
 " Abbrevs {{{
